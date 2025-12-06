@@ -7,4 +7,3 @@ __pycache__/
 *.py[cod]
 .venv/
 creds.json
-creds1.json
